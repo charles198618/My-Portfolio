@@ -7,6 +7,7 @@ In this work i will make my first porfolio. So, we will use code from Boostrap. 
 ![Homework 2 whatever](/assets/images/01-html-css-git-homework-demo.png)
 
 Below is the link to Deployment:
+https://github.com/charles198618/Homework-2-Porfolio
 
 
 ## OBJECTIVES
